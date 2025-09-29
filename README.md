@@ -1,4 +1,4 @@
-# scholars-mate-bot
+# dumbledore-bot
 a simple chess bot that plays scholars mate
 
 ## features
